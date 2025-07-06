@@ -29,7 +29,7 @@ const config = defaultConfig({
   appName: "CommitLearn",
   walletConnectProjectId: "YOUR_WALLET_CONNECT_PROJECT_ID",
 
-  xellarAppId: "8a06c191-4fc6-4db9-a196-e61306d00db6",
+  xellarAppId: "a2a69251-8b29-4ccf-9c4b-89c4b947ff19",
   xellarEnv: "sandbox",
   chains: [monadTestnet],
   transports: {
